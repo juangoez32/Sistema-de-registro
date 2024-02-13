@@ -5,3 +5,5 @@
   Para ejecutar el sistema debes poner:
 
    ```npm install react```
+
+actualizando y aprendiendo con mi vs code
